@@ -1,5 +1,8 @@
 # Single file jsp webshell, work on jdk5+
 
+# Bypass WAF
+  POST、GET data has been encrypted
+
 # Explorer:
   Management file  
   del, move, copy, compress, download, read  
