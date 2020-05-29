@@ -1,14 +1,23 @@
 # jsp-webshell
-single file jsp webshell, work on jdk5+
+Single file jsp webshell, work on jdk5+
+
 
 # Explorer:
-  manage file, del, move, copy, compress, download, read
+  Management file.
+  del, move, copy, compress, download, read
+  Editing is not yet supported
+  
+  ![Image text](https://raw.githubusercontent.com/kjyc1/jsp-webshell/master/fileManager.png)
+  
   
 # Shell:
-  execute shell command (windows not supported!)
+  Execute shell command (windows not supported!)
+  
+  ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+  
   
 # Database:
-  connect and manage database (developing...)
+  Connect and management database (developing...)
   
   
 PHP ASP comming soon!
