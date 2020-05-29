@@ -1,7 +1,9 @@
-Single file jsp webshell, work on jdk5+
+# Single file jsp webshell, work on jdk5+
 
 # Explorer:
-  Management file  del, move, copy, compress, download, read  Editing is not yet supported
+  Management file  
+  del, move, copy, compress, download, read  
+  Editing is not yet supported
   
   ![img](https://raw.githubusercontent.com/kjyc1/jsp-webshell/master/fileManager.png)
   
