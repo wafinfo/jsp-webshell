@@ -1,7 +1,7 @@
 Single file jsp webshell, work on jdk5+, Utf8 encoding, gbk not supported
 
 # Bypass WAF
-  POST、GET data has been encrypted
+  POST、GET data has been encrypted (include upload file)
 
 # Explorer:
   Management file  
